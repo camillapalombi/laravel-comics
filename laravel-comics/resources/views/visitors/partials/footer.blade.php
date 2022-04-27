@@ -9,22 +9,43 @@
 
         <div class="dc-comics-links">
           <div class="title-links">DC COMICS</div>
-          <a href="#!"></a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
+          <a href="#!">C</a>
         </div>
 
         <div class="dc-comics-links">
           <div class="title-links">DC</div>
-          <a href="#!"></a>
+          <a href="#!">S</a>
+          <a href="#!">S</a>
         </div>
 
         <div class="dc-comics-links">
           <div class="title-links">SITE</div>
-          <a href="#!"></a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
+          <a href="#!">D</a>
         </div>
 
         <div class="dc-comics-links shop-links">
           <div class="title-links">SHOP</div>
-          <a href="#!"></a>
+          <a href="#!">A</a>
+          <a href="#!">A</a>
+          <a href="#!">A</a>
+          <a href="#!">A</a>
+          <a href="#!">A</a>
         </div>
 
       </div>
