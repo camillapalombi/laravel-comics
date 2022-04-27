@@ -1,6 +1,6 @@
 @extends('visitors.template.base')
 
-@section('title', 'DC Comics')
+@section('title', 'DC')
 
 @section('content')
     <h1> CIAO </h1>
